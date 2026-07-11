@@ -1,4 +1,4 @@
-# 📊 Excel Projects
+# Excel Projects
 
 This repository contains my Microsoft Excel practice projects completed while learning Excel. The projects demonstrate spreadsheet design, data analysis, logical functions, conditional formatting, dashboards, and data visualization.
 
@@ -33,6 +33,6 @@ Topics covered:
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Microsoft Excel
