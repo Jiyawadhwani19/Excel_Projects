@@ -1,12 +1,12 @@
 # 📊 Student Performance Analysis (Excel)
 
-## 📌 Overview
+## Overview
 
 This project is a Microsoft Excel-based Student Performance Analysis worksheet created to practice essential and intermediate Excel concepts. It demonstrates random data generation, logical functions, grading automation, and conditional formatting using a dataset of student exam results.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The objective of this project is to:
 
@@ -18,7 +18,7 @@ The objective of this project is to:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains records for **10 students** with marks in **5 subjects**:
 
@@ -38,7 +38,7 @@ Additional calculated columns include:
 
 ---
 
-## 🛠 Excel Features Used
+## Excel Features Used
 
 - RANDBETWEEN()
 - Paste Special → Values
@@ -53,7 +53,7 @@ Additional calculated columns include:
 
 ---
 
-## 📖 Tasks Performed
+## Tasks Performed
 
 ### 🔹 Data Generation
 
@@ -81,7 +81,7 @@ Applied Conditional Formatting to:
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Generation
 - Logical Functions
