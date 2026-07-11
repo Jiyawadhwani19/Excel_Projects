@@ -92,7 +92,7 @@ Applied Conditional Formatting to:
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Microsoft Excel
 
